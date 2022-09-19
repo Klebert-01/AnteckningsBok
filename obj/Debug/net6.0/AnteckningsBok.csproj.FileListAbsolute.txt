@@ -1,0 +1,15 @@
+C:\Users\arvid\source\REPOS\AnteckningsBok\AnteckningsBok\bin\Debug\net6.0\AnteckningsBok.exe
+C:\Users\arvid\source\REPOS\AnteckningsBok\AnteckningsBok\bin\Debug\net6.0\AnteckningsBok.deps.json
+C:\Users\arvid\source\REPOS\AnteckningsBok\AnteckningsBok\bin\Debug\net6.0\AnteckningsBok.runtimeconfig.json
+C:\Users\arvid\source\REPOS\AnteckningsBok\AnteckningsBok\bin\Debug\net6.0\AnteckningsBok.dll
+C:\Users\arvid\source\REPOS\AnteckningsBok\AnteckningsBok\bin\Debug\net6.0\AnteckningsBok.pdb
+C:\Users\arvid\source\REPOS\AnteckningsBok\AnteckningsBok\obj\Debug\net6.0\AnteckningsBok.csproj.AssemblyReference.cache
+C:\Users\arvid\source\REPOS\AnteckningsBok\AnteckningsBok\obj\Debug\net6.0\AnteckningsBok.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\arvid\source\REPOS\AnteckningsBok\AnteckningsBok\obj\Debug\net6.0\AnteckningsBok.AssemblyInfoInputs.cache
+C:\Users\arvid\source\REPOS\AnteckningsBok\AnteckningsBok\obj\Debug\net6.0\AnteckningsBok.AssemblyInfo.cs
+C:\Users\arvid\source\REPOS\AnteckningsBok\AnteckningsBok\obj\Debug\net6.0\AnteckningsBok.csproj.CoreCompileInputs.cache
+C:\Users\arvid\source\REPOS\AnteckningsBok\AnteckningsBok\obj\Debug\net6.0\AnteckningsBok.dll
+C:\Users\arvid\source\REPOS\AnteckningsBok\AnteckningsBok\obj\Debug\net6.0\refint\AnteckningsBok.dll
+C:\Users\arvid\source\REPOS\AnteckningsBok\AnteckningsBok\obj\Debug\net6.0\AnteckningsBok.pdb
+C:\Users\arvid\source\REPOS\AnteckningsBok\AnteckningsBok\obj\Debug\net6.0\AnteckningsBok.genruntimeconfig.cache
+C:\Users\arvid\source\REPOS\AnteckningsBok\AnteckningsBok\obj\Debug\net6.0\ref\AnteckningsBok.dll
